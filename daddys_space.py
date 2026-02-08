@@ -11,3 +11,4 @@ def christmas_tree(height):
 
 # Create a tree with height 7
 christmas_tree(7)
+

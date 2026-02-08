@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 myint = 7
 print(myint)
 myfloat = 7.0

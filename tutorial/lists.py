@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 mylist = []
 mylist.append(1)
 mylist.append(2)

@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 total_distance = 30        # km
 total_time = 45            # min
 
@@ -14,3 +17,5 @@ print(f"Distance covered in first {time_first} min: {distance_first} km")
 print(f"Distance remaining: {distance_remaining} km")
 print(f"Time remaining: {time_remaining} min")
 print(f"Required average speed: {speed_required} km/h")
+print("")
+

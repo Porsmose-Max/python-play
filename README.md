@@ -12,3 +12,9 @@ To install python packages in the venv:
 ```
 pip install -r requirements.txt
 ```
+
+## Check
+- [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
+- [https://learnpython.org/en/](https://learnpython.org/en/)
+
+
